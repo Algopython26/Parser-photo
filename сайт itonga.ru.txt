@@ -1,0 +1,7 @@
+https://itonga.ru/russia/kavkaz/peschera-vechnoy-merzloty-v-zheleznovodske/
+
+https://itonga.ru/russia/kavkaz/selitryanye-skaly-i-peschera-pervobytnogo-cheloveka-zheleznovodsk/
+
+pip install bs4
+
+pip install requests
